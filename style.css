@@ -112,7 +112,10 @@ body {
 
 .application__to__contact {
     padding: 40px 0 300px 0;
-    margin: 0 740px 0 740px;
+    height: 60px;
+    width: 180px;
+    margin-left: auto;
+    margin-right: auto;
     background-color: #425050;
     font-size: 20px;
     color: #425050;
